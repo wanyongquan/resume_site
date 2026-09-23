@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Yixin Wan | Resume
+title: Yixin Wan 
 description: Shanghai Jiao Tong University · Global College · Electronic and Computer Engineering
 ---
 
-<img src="assets/avatar.jpg" alt="Yixin Wan" width="118" align="right" style="margin-left:24px;border-radius:6px;" />
+<img src="assets/avatar.jpg" alt="Yixin Wan" width="118" align="right" style="margin-left:24px;" />
 
 
 # YIXIN WAN
+
+*Currently applying for Master's or PhD programs.*
 
 **Shanghai Jiao Tong University, Global College — Electronic and Computer Engineering**
 
@@ -17,9 +19,56 @@ Phone: 177-1736-6933 ｜ Email: wanyixin0125@sjtu.edu.cn
 
 ## Education
 
-**Shanghai Jiao Tong University, Pujiang International College** ｜ B.Eng. in Electronic and Computer Engineering ｜ `Sep. 2023 – Present`
+**Shanghai Jiao Tong University, Global College** ｜ B.Eng. in Electronic and Computer Engineering ｜ `Sep. 2023 – Present`
 
-**Core Courses:** Programming and Data Structures, Signals and Systems, Engineering Probability, Cryptography, Logic Design, Semiconductor Design
+**Core Courses:**
+
+<div class="course-grid">
+  <div class="course-group">
+    <span class="cg-title">Mathematics &amp; Physics</span>
+    <ul>
+      <li>Honors Calculus II</li>
+      <li>Honors Calculus III</li>
+      <li>Honors Calculus IV</li>
+      <li>Discrete Mathematics</li>
+      <li>Probabilistic Methods in Engineering</li>
+      <li>Physics I</li>
+      <li>Physics II</li>
+      <li>Modern Physics</li>
+    </ul>
+  </div>
+  <div class="course-group">
+    <span class="cg-title">Computing &amp; Programming</span>
+    <ul>
+      <li>Introduction to Computers and Programming</li>
+      <li>Programming and Introductory Data Structures</li>
+      <li>Data Structures and Algorithms</li>
+      <li>Introduction to Computer Organization</li>
+      <li>Introduction to Cryptography</li>
+    </ul>
+  </div>
+  <div class="course-group">
+    <span class="cg-title">Circuits, Signals &amp; Systems</span>
+    <ul>
+      <li>Introduction to Circuits</li>
+      <li>Electronic Circuits</li>
+      <li>Digital Integrated Circuits</li>
+      <li>Introduction to Logic Design</li>
+      <li>Electromagnetics I</li>
+      <li>Introduction to Signals and Systems</li>
+      <li>Introduction to Engineering</li>
+      <li>Semiconductor Design</li>
+    </ul>
+  </div>
+  <div class="course-group">
+    <span class="cg-title">Communication &amp; Writing</span>
+    <ul>
+      <li>Academic Writing</li>
+      <li>Technical Communication</li>
+      <li>Advanced Technical Communication</li>
+    </ul>
+  </div>
+</div>
 
 ## Publications
 
@@ -73,6 +122,6 @@ Course Project, Introduction to Engineering ｜ `Jun. 2024 – Aug. 2024`
 - **Cultural-creativity-driven Rural Revitalization Field Survey on Yu-Shan Island, Fujian**　`Aug. 2024`  
   Conducted on-site field research; communicated with local government, folk-culture organizations and Tsinghua University rural-revitalization research center. Summarized transformation paths for island cultural-creativity industries, applying technical insights to real-world rural-revitalization scenarios.
 
-## Self-Assessment
+## Self-Assessment {#self}
 
 Sincere, modest and collaborative. Diligent, pragmatic and challenge-oriented in academic studies. Strong team-player awareness and sense of responsibility, consistently holds high personal standards.

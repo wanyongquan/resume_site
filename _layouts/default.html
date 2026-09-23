@@ -71,6 +71,24 @@
     main ul li, main ol li { margin: 7px 0; }
     main ol > li { margin: 12px 0; }
 
+    /* core courses: two-column card grid with chips */
+    .course-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 20px 30px; margin: 12px 0 8px;
+    }
+    .course-group { border-left: 3px solid rgba(41, 98, 255, .35); padding: 2px 0 2px 14px; }
+    .course-group .cg-title {
+      display: block; font-weight: 700; font-size: 14.5px; color: #34495e; margin-bottom: 8px;
+    }
+    .course-group ul {
+      list-style: none; margin: 0 !important; padding: 0 !important;
+      display: flex; flex-wrap: wrap; gap: 6px 8px;
+    }
+    .course-group li {
+      margin: 0; font-size: 13px; color: #4b5563; line-height: 1.5;
+      background: #f1f3f9; border-radius: 3px; padding: 3px 9px;
+    }
+    @media (max-width: 700px) { .course-grid { grid-template-columns: 1fr; gap: 16px; } }
+
     /* footer */
     .site-footer {
       border-top: 1px solid #e9ecef; color: #6b7280; font-size: 13.5px;

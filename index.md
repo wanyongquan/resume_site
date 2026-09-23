@@ -1,11 +1,8 @@
 ---
-layout: default
-title: Yixin Wan 
-description: Shanghai Jiao Tong University · Global College · Electronic and Computer Engineering
+title: Yixin Wan
 ---
 
-<img src="assets/avatar.jpg" alt="Yixin Wan" width="118" align="right" style="margin-left:24px;" />
-
+![Yixin Wan](assets/avatar.jpg)
 
 # YIXIN WAN
 
@@ -13,7 +10,7 @@ description: Shanghai Jiao Tong University · Global College · Electronic and C
 
 **Shanghai Jiao Tong University, Global College — Electronic and Computer Engineering**
 
-Phone: 177-1736-6933 ｜ Email: wanyixin0125@sjtu.edu.cn
+Phone: 177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
 
 ---
 
@@ -23,62 +20,71 @@ Phone: 177-1736-6933 ｜ Email: wanyixin0125@sjtu.edu.cn
 
 **Core Courses:**
 
-<div class="course-grid">
-  <div class="course-group">
-    <span class="cg-title">Mathematics &amp; Physics</span>
-    <ul>
-      <li>Honors Calculus II</li>
-      <li>Honors Calculus III</li>
-      <li>Honors Calculus IV</li>
-      <li>Discrete Mathematics</li>
-      <li>Probabilistic Methods in Engineering</li>
-      <li>Physics I</li>
-      <li>Physics II</li>
-      <li>Modern Physics</li>
-    </ul>
-  </div>
-  <div class="course-group">
-    <span class="cg-title">Computing &amp; Programming</span>
-    <ul>
-      <li>Introduction to Computers and Programming</li>
-      <li>Programming and Introductory Data Structures</li>
-      <li>Data Structures and Algorithms</li>
-      <li>Introduction to Computer Organization</li>
-      <li>Introduction to Cryptography</li>
-    </ul>
-  </div>
-  <div class="course-group">
-    <span class="cg-title">Circuits, Signals &amp; Systems</span>
-    <ul>
-      <li>Introduction to Circuits</li>
-      <li>Electronic Circuits</li>
-      <li>Digital Integrated Circuits</li>
-      <li>Introduction to Logic Design</li>
-      <li>Electromagnetics I</li>
-      <li>Introduction to Signals and Systems</li>
-      <li>Introduction to Engineering</li>
-      <li>Semiconductor Design</li>
-    </ul>
-  </div>
-  <div class="course-group">
-    <span class="cg-title">Communication &amp; Writing</span>
-    <ul>
-      <li>Academic Writing</li>
-      <li>Technical Communication</li>
-      <li>Advanced Technical Communication</li>
-    </ul>
-  </div>
+<div class="course-grid">  
+  <div class="course-group">  
+    Mathematics \&amp; Physics  
+    <ul>  
+      <li>Honors Calculus II</li>  
+      <li>Honors Calculus III</li>  
+      <li>Honors Calculus IV</li>  
+      <li>Discrete Mathematics</li>  
+      <li>Probabilistic Methods in Engineering</li>  
+      <li>Physics I</li>  
+      <li>Physics II</li>  
+      <li>Modern Physics</li>  
+    </ul>  
+  </div>  
+  <div class="course-group">  
+    Computing \&amp; Programming  
+    <ul>  
+      <li>Introduction to Computers and Programming</li>  
+      <li>Programming and Introductory Data Structures</li>  
+      <li>Data Structures and Algorithms</li>  
+      <li>Introduction to Computer Organization</li>  
+      <li>Introduction to Cryptography</li>  
+    </ul>  
+  </div>  
+  <div class="course-group">  
+    Circuits, Signals \&amp; Systems  
+    <ul>  
+      <li>Introduction to Circuits</li>  
+      <li>Electronic Circuits</li>  
+      <li>Digital Integrated Circuits</li>  
+      <li>Introduction to Logic Design</li>  
+      <li>Electromagnetics I</li>  
+      <li>Introduction to Signals and Systems</li>  
+      <li>Introduction to Engineering</li>  
+      <li>Semiconductor Design</li>  
+    </ul>  
+  </div>  
+  <div class="course-group">  
+    Communication \&amp; Writing  
+    <ul>  
+      <li>Academic Writing</li>  
+      <li>Technical Communication</li>  
+      <li>Advanced Technical Communication</li>  
+    </ul>  
+  </div>  
 </div>
 
 ## Publications
 
-1. **Yixin Wan**, Xubin Mao, Lanqing Yang. *TrustCTR: Target-Side Trustworthy Multimodal Enhancement for Click-Through Rate Prediction.* The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026). **Accepted.** Main contributor for method design and manuscript writing.
-2. Nan Fang, Yanting Zhang, **Yixin Wan**, et al. *GSBridge: Bridging Sparse Geometry and Semantic Consistency in Text-to-3D Generation.* The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026). **Accepted.** Responsible for experimental validation and English manuscript writing.
-3. Siying Li, Jingyi Guo, **Yixin Wan**, et al. *Structured Diffusion for Controlled Text Synthesis on Garments.* Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026). **Accepted.** Responsible for experimental validation and English manuscript writing.
+1. **Yixin Wan**, Xubin Mao, Lanqing Yang. *TrustCTR: Target-Side Trustworthy Multimodal Enhancement for Click-Through Rate Prediction.* The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026). **Accepted.** Mainly responsible for method design and manuscript writing.
+2. Nan Fang, Yanting Zhang, **Yixin Wan**, et al. *GSBridge: Bridging Sparse Geometry and Semantic Consistency in Text-to-3D Generation.* The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026). **Accepted.** Mainly responsible for the English manuscript writing.
+3. Siying Li, Jingyi Guo, **Yixin Wan**, et al. *Structured Diffusion for Controlled Text Synthesis on Garments.* Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026). **Accepted.** Mainly responsible for the English manuscript writing.
 
 ## Research & Project Experience
 
-### 1. Non-Intrusive Online Condition Monitoring for Large-Scale Laboratory Equipment
+### 1. Trustworthy Multimodal Enhancement for Click-Through Rate Prediction
+
+Research Group of Assoc. Prof. Lanqing Yang (SJTU) & Prof. Yanting Zhang(DHU) ｜ `Mar. 2026 – Aug. 2026`
+
+- Studied multimodal CTR prediction, where inconsistent and noisy image, text and ID signals degrade target item representations. Under the guidance of Assoc. Prof. Lanqing Yang, proposed a target-side trustworthy enhancement framework that takes the ID representation as a stable behavioral backbone and adaptively regulates multimodal fusion through confidence gating.
+- Took main responsibility for the research design and implementation: developed the confidence-gating mechanism together with the supporting modules (multimodal interest synergy, structured semantic matching and cross-view contrastive learning), implemented the complete model in PyTorch, and conducted comparative experiments against 15 conventional, sequential and multimodal baselines on three Amazon datasets, where the model achieved the best AUC.
+- Extended the method to a real-world waterfall-style recommendation scenario and built a lightweight variant for deployment-constrained settings, verifying its transferability and engineering feasibility.
+- As first author, mainly responsible for the research work and the complete manuscript writing, accepted by ADMA 2026. Also a third author on two collaborative papers (text-to-3D generation and controllable garment text synthesis), mainly responsible for their English writing and editing under the guidance of Prof. Yanting Zhang.
+
+### 2. Non-Intrusive Online Condition Monitoring for Large-Scale Laboratory Equipment
 
 Research Group of Prof. Guangtao Xue & Assoc. Prof. Lanqing Yang, SJTU ｜ `Sep. 2025 – Feb. 2026`
 
@@ -87,7 +93,7 @@ Research Group of Prof. Guangtao Xue & Assoc. Prof. Lanqing Yang, SJTU ｜ `Sep.
 - Conducted Power Spectral Density (PSD) analysis on magnetic-field signals from centrifuges. Designed operational/standby classification rules based on amplitude ratios between the 50 Hz power-frequency main peak and high-frequency characteristic peaks.
 - Collected thousands of data samples across three devices over half a month. Implemented the full pipeline including sensor sampling, data acquisition, status classification and frontend visualization, delivering reusable acquisition and decision-making modules for follow-up group research.
 
-### 2. LLM-Driven Virtual Deform Simulation Engineer Agent System
+### 3. LLM-Driven Virtual Deform Simulation Engineer Agent System
 
 Beijing Institute of Mechanical and Electrical Technology, CAM (Internship Project) ｜ `Aug. 2025 – Sep. 2025`
 
@@ -95,7 +101,7 @@ Beijing Institute of Mechanical and Electrical Technology, CAM (Internship Proje
 - Completed requirement analysis independently and developed full-stack agent modules: implemented dual-backend LLM interfaces (OpenRouter cloud + local Ollama) to translate natural-language instructions into standardized JSON action sequences; built desktop-control modules with PyAutoGUI; developed a two-stage UI matching scheme (coarse parent-graph matching + fine child-graph alignment) using OpenCV and PIL, and accumulated over 50 UI template screenshots.
 - Implemented a dual-mode execution architecture: AI dynamic parsing plus predefined workflow templates. Integrated safety mechanisms including manual mouse emergency interruption, pre-execution confirmation and human fallback for recognition failures. Validated automation feasibility for professional simulation software through prototyping and demo, and delivered a reusable engineering-simulation agent control framework.
 
-### 3. IoT-based Pet-care & Interaction System
+### 4. IoT-based Pet-care & Interaction System
 
 Course Project, Introduction to Engineering ｜ `Jun. 2024 – Aug. 2024`
 
@@ -105,11 +111,11 @@ Course Project, Introduction to Engineering ｜ `Jun. 2024 – Aug. 2024`
 
 ## Technical Skills & Language Proficiency
 
-|  |  |
-| --- | --- |
-| **Programming & Tools** | C, C++, Python, MATLAB, Verilog; VS Code, PyCharm, OpenCV, PIL, PyAutoGUI, Ollama, OpenRouter API |
+|                             |                                                                                                                                                                                                                                                  |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Programming & Tools**     | C, C++, Python, MATLAB, Verilog; VS Code, PyCharm, OpenCV, PIL, PyAutoGUI, Ollama, OpenRouter API                                                                                                                                                |
 | **Engineering & Analytics** | LLM-based Agent development, LLM API integration, visual UI-location automation, predefined workflow design, sensor deployment & data acquisition, power-spectral-density analysis, IoT system joint debugging, Linux background task management |
-| **English** | TOEFL: 110/120 (Listening 6/6); CET-6: 614 (Reading 245/249); CET-4: 639 (Listening 249/249). Proficient at reading academic papers, composing English manuscripts and delivering academic presentations in English. |
+| **English**                 | TOEFL: 110/120 (Listening 6/6); CET-6: 614 (Reading 245/249); CET-4: 639 (Listening 249/249). Proficient at reading academic papers, composing English manuscripts and delivering academic presentations in English.                             |
 
 ## Campus & International Experience
 

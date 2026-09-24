@@ -6,11 +6,11 @@ title: Yixin Wan
 
 # YIXIN WAN
 
-*Currently applying for Master's or PhD programs.*
+*Currently applying for Master's or PhD programmes.*
 
 **Shanghai Jiao Tong University, Global College — Electronic and Computer Engineering**
 
-Phone: 177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
+Phone: (+86)177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
 
 ---
 
@@ -22,7 +22,7 @@ Phone: 177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
 
 <div class="course-grid">  
   <div class="course-group">  
-    Mathematics \&amp; Physics  
+    Mathematics &amp; Physics  
     <ul>  
       <li>Honors Calculus II</li>  
       <li>Honors Calculus III</li>  
@@ -35,7 +35,7 @@ Phone: 177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
     </ul>  
   </div>  
   <div class="course-group">  
-    Computing \&amp; Programming  
+    Computing &amp; Programming  
     <ul>  
       <li>Introduction to Computers and Programming</li>  
       <li>Programming and Introductory Data Structures</li>  
@@ -45,7 +45,7 @@ Phone: 177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
     </ul>  
   </div>  
   <div class="course-group">  
-    Circuits, Signals \&amp; Systems  
+    Circuits, Signals &amp; Systems  
     <ul>  
       <li>Introduction to Circuits</li>  
       <li>Electronic Circuits</li>  
@@ -58,7 +58,7 @@ Phone: 177-1736-6933 ｜ Email: <wanyixin0125@sjtu.edu.cn>
     </ul>  
   </div>  
   <div class="course-group">  
-    Communication \&amp; Writing  
+    Communication &amp; Writing  
     <ul>  
       <li>Academic Writing</li>  
       <li>Technical Communication</li>  
